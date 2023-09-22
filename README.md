@@ -83,4 +83,4 @@ Before you begin, make sure you have the following prerequisites installed on yo
   If you would like to contribute to Stream-talk, please feel free to create a pull request. We appreciate any help we can get to make Stream-talk the best streaming chat application possible.
 
 ### Contact
-  If you have any questions or feedback, please feel free to contact us at email@example.com.
+  For more information on the project and to access the source code, please visit my [GitHub profile](https://github.com/azimAVI).
