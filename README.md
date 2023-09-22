@@ -1,6 +1,6 @@
 # Stream-talk
 
-Stream-talk is a real-time streaming chat application built using Django as the backend. It allows users to create and join live chat rooms, conduct audio and video conversations, share screens, record sessions, and more.
+Stream-talk is a real-time streaming chat application built using Django as the backend. It allows users to create and join live chat rooms, conduct audio and video conversations.
 
 ## Features
 
