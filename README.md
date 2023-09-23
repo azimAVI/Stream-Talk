@@ -1,5 +1,6 @@
 # Stream-talk
 
+
 Stream-talk is a real-time streaming chat application built using Django as the backend. It allows users to create and join live chat rooms, conduct audio and video conversations.
 
 ## Features
@@ -65,7 +66,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
     ```
     python manage.py runserver
     ```
-### The application will be accessible in your web browser at http://localhost:8000.
+##### The application will be accessible in your web browser at http://localhost:8000.
 
 ### Create a Chat Room
  - To create a new chat room, follow these steps:
@@ -80,7 +81,9 @@ Before you begin, make sure you have the following prerequisites installed on yo
     - Click the "Join Stream" button.
 
 ### Contributing
-  If you would like to contribute to Stream-talk, please feel free to create a pull request. We appreciate any help we can get to make Stream-talk the best streaming chat application possible.
 
-### Contact
-  For more information on the project and to access the source code, please visit my [GitHub profile](https://github.com/azimAVI).
+If you would like to contribute to Stream-talk, please feel free to create a pull request. We appreciate any help we can get to make Stream-talk the best streaming chat application possible.
+
+## Contact
+
+For any questions or inquiries, please reach out to [me](https://www.linkedin.com/in/aayushverma2002/)
